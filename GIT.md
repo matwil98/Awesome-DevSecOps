@@ -9,3 +9,11 @@
 6. Git branching strategies - [LINK](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
 7. Git Pro Book - [LINK](https://git-scm.com/book/pl/v2)
 8. Notes with crucial information concernig Git control system version - [LINK](https://github.com/bogdanpolak/nauka-gita)
+
+### Exercises 
+1. Learn Git branching - [LINK](https://learngitbranching.js.org/)
+2. VConflict practice - [LINK](https://github.com/githubtraining/conflict-practice)
+3. Git pratice - [LINK](https://www.gitwarsztaty.pl/cwiczenia)
+
+### Interview questions 
+1. Git interview questions for 2024 - [LINK](https://mockit.pl/blog/pytania-rekrutacyjne-git)
